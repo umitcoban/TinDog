@@ -1,9 +1,11 @@
 body {
     font-family: 'Montserrat-Black', sans-serif;
+    text-align: center;
 }
 
 #title {
     background-color: #ff4c68;
+    text-align: left;
 }
 
 .container-fluid {
@@ -70,7 +72,6 @@ body {
     z-index: 1;
 }
 .feature-box{
-    text-align: center;
     background-color: white;
     padding-right: 50px;
 } 
@@ -81,14 +82,12 @@ body {
 }
 
 .feature-p {
-    text-align: center;
     color: #8f8f8f;
     padding-top: 5px;
 }
 
 .feature-icon {
     display: inline-block;
-    text-align: center;
     color: #ef8172;
     width: 100%;
     margin: 10% auto 5% auto;
@@ -102,7 +101,6 @@ body {
 
 #testimonials {
 
-    text-align: center;
     background-color: #ef8172;
     color: #ffff;
 }
@@ -129,7 +127,6 @@ body {
 
 #press {
     background-color: #ef8172;
-    text-align: center;
     padding-bottom: 3%;
 }
 
@@ -141,7 +138,6 @@ body {
 /* Pricing */
 
 #pricing {
-    text-align: center;
     padding: 100px;
 }
 
@@ -153,7 +149,6 @@ body {
 
 #cta{
     background-color: #ff4c68;
-    text-align: center;
 }
 
 .cta-title{
@@ -173,7 +168,6 @@ body {
 
 #footer{
     background-color: #fff;
-    text-align: center;
     padding: 7% 15%;
 }
 
